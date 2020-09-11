@@ -14,5 +14,5 @@ class Questions(unittest.TestCase):
     def test_question0004(self):
         print(functions.largestPalindromeProduct(3))
 
-    def test_question0004(self):
+    def test_question0005(self):
         print(functions.smallestMultiple(20))
